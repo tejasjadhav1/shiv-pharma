@@ -608,7 +608,7 @@ const Home = () => {
                       <a target="_blank" href="https://maps.app.goo.gl/BHnqLhoDYkz7uwqb9">
                         Shop No. 8, Kasturi Park,
                         <br />
-                        Kole Hills Road, Jalgaon
+                        Kolhe Hills Road, Jalgaon
                       </a>
                     </p>
                   </div>
